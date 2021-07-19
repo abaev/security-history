@@ -1,0 +1,32 @@
+.sh-btn-primary {
+  background-color: $sh-primary-color !important;
+  color: white !important;
+}
+
+.sh-btn-secondary {
+  border-color: $sh-primary-color !important;
+  color: $sh-primary-color !important;
+}
+
+.sh-btn-default {
+  background-color: $sh-grey-light !important;
+  color: $sh-grey !important;
+}
+
+.sh-h6 {
+  font-weight: 700 !important;
+  font-size: 20px !important;
+}
+
+.v-text-field {
+  font-weight: $sh-primary-font-weight;
+}
+
+// input[type="password"] {
+//   -webkit-text-security: square;
+//   -moz-text-security: square;
+// }
+
+.clickable {
+  cursor: pointer;
+}

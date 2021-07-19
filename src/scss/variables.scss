@@ -1,1 +1,9 @@
-$body-font-family: 'Montserrat', sans-serif !default; 
+// Здесь, переопределяем переменные Vuetify
+
+@import 'main.variables.scss';
+
+$body-font-family: $sh-font-family;
+$btn-text-transform: '';
+$btn-letter-spacing: 1;
+
+
