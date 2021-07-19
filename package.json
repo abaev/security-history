@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@mdi/font": "^5.9.55",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "country-flag-emoji": "^1.0.3",
     "libphonenumber-js": "^1.9.22",
@@ -21,6 +22,7 @@
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
+    "axios-mock-adapter": "^1.19.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
